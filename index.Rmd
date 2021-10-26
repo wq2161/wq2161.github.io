@@ -20,5 +20,5 @@ I can make extra page on my site and link to that. Here's my [about](about.html)
 
 My cat's name is Ted. He likes to be on the internet. Here he is:
 
-<img src="images/image.jpg" style="width:75%">
+<img src="images/image.jpeg" style="width:75%">
 
